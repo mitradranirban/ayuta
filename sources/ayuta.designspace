@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="wght" name="weight" minimum="100" maximum="900" default="400"/>
+  </axes>
+  <sources>
+    <source filename="ayuta-thin.ufo" name="d758bafa" familyname="ayuta" stylename="ayuta-thin">
+      <location>
+        <dimension name="weight" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="ayuta-regular.ufo" name="636ff076" familyname="ayuta" stylename="ayuta-regular">
+      <location>
+        <dimension name="weight" xvalue="400"/>
+      </location>
+    </source>
+    <source filename="ayuta-black.ufo" name="0c467768" familyname="ayuta" stylename="ayuta-black">
+      <location>
+        <dimension name="weight" xvalue="900"/>
+      </location>
+    </source>
+  </sources>
+  <lib>
+    <dict>
+      <key>fontra.sourceStatusFieldDefinitions</key>
+      <array>
+        <dict>
+          <key>color</key>
+          <array>
+            <integer>1</integer>
+            <integer>0</integer>
+            <integer>0</integer>
+            <integer>1</integer>
+          </array>
+          <key>isDefault</key>
+          <true/>
+          <key>label</key>
+          <string>In progress</string>
+          <key>value</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</designspace>

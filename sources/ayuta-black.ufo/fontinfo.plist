@@ -1,31 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>familyName</key>
-    <string>ayuta</string>
-    <key>styleName</key>
-    <string>black</string>
-    <key>styleMapFamilyName</key>
-    <string>ayuta black</string>
-    <key>versionMajor</key>
-    <integer>1</integer>
-    <key>versionMinor</key>
-    <integer>0</integer>
-    <key>copyright</key>
-    <string>Copyright 2024 The Ayuta Project Authors (github.com/mitradranirban)</string>
-    <key>unitsPerEm</key>
-    <integer>2048</integer>
-    <key>capHeight</key>
-    <integer>1536</integer>
-    <key>xHeight</key>
-    <integer>1024</integer>
     <key>ascender</key>
     <real>1638.4</real>
+    <key>capHeight</key>
+    <integer>1536</integer>
+    <key>copyright</key>
+    <string>Copyright 2024 The Ayuta Project Authors (github.com/mitradranirban)</string>
     <key>descender</key>
     <integer>-512</integer>
+    <key>familyName</key>
+    <string>ayuta</string>
+    <key>guidelines</key>
+    <array/>
     <key>italicAngle</key>
-    <real>0</real>
+    <real>0.0</real>
     <key>openTypeHeadCreated</key>
     <string>2024/10/08 11:29:14</string>
     <key>openTypeHheaAscender</key>
@@ -34,28 +24,22 @@
     <integer>-598</integer>
     <key>openTypeHheaLineGap</key>
     <integer>0</integer>
+    <key>openTypeNameDescription</key>
+    <string>A Variable Hangul font created using rectangular components</string>
     <key>openTypeNameDesigner</key>
     <string>Dr Anirban Mitra</string>
     <key>openTypeNameDesignerURL</key>
     <string>https://github.com/mitradranirban</string>
-    <key>openTypeNameManufacturer</key>
-    <string>Dr Anirban Mitra</string>
-    <key>openTypeNameManufacturerURL</key>
-    <string>https://fonts.atipra.in</string>
     <key>openTypeNameLicense</key>
     <string>Copyright 2024 The Samaano Project Authors (https://github.com/mitradranirban/samaano-fonts) This Font Software is licensed under the SIL Open Font License, Version 1.1.This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
     <key>openTypeNameLicenseURL</key>
     <string>http://scripts.sil.org/OFL</string>
+    <key>openTypeNameManufacturer</key>
+    <string>Dr Anirban Mitra</string>
+    <key>openTypeNameManufacturerURL</key>
+    <string>https://fonts.atipra.in</string>
     <key>openTypeNameVersion</key>
     <string>Version 1.000</string>
-    <key>openTypeNameDescription</key>
-    <string>A Variable Hangul font created using rectangular components</string>
-    <key>openTypeOS2WidthClass</key>
-    <integer>5</integer>
-    <key>openTypeOS2WeightClass</key>
-    <integer>400</integer>
-    <key>openTypeOS2VendorID</key>
-    <string>PfEd</string>
     <key>openTypeOS2FamilyClass</key>
     <array>
       <integer>0</integer>
@@ -69,6 +53,12 @@
     <integer>-410</integer>
     <key>openTypeOS2TypoLineGap</key>
     <integer>0</integer>
+    <key>openTypeOS2VendorID</key>
+    <string>PfEd</string>
+    <key>openTypeOS2WeightClass</key>
+    <integer>400</integer>
+    <key>openTypeOS2WidthClass</key>
+    <integer>5</integer>
     <key>openTypeOS2WinAscent</key>
     <integer>2180</integer>
     <key>openTypeOS2WinDescent</key>
@@ -77,13 +67,23 @@
     <string>ayuta-black</string>
     <key>postscriptFullName</key>
     <string>ayuta black</string>
-    <key>postscriptWeightName</key>
-    <string>Black</string>
-    <key>postscriptUnderlineThickness</key>
-    <integer>0</integer>
     <key>postscriptUnderlinePosition</key>
     <integer>0</integer>
-    <key>guidelines</key>
-    <array/>
+    <key>postscriptUnderlineThickness</key>
+    <integer>0</integer>
+    <key>postscriptWeightName</key>
+    <string>Black</string>
+    <key>styleMapFamilyName</key>
+    <string>ayuta black</string>
+    <key>styleName</key>
+    <string>black</string>
+    <key>unitsPerEm</key>
+    <integer>2048</integer>
+    <key>versionMajor</key>
+    <integer>1</integer>
+    <key>versionMinor</key>
+    <integer>0</integer>
+    <key>xHeight</key>
+    <integer>1024</integer>
   </dict>
 </plist>

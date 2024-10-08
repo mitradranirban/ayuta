@@ -2,18 +2,18 @@
 
 # AYUTA Variable Weight Hangeul Font
 
-[![][Fontbakery]](https://mitradranirban.github.io/ayuta.git/fontbakery/fontbakery-report.html)
-[![][Universal]](https://mitradranirban.github.io/ayuta.git/fontbakery/fontbakery-report.html)
-[![][GF Profile]](https://mitradranirban.github.io/ayuta.git/fontbakery/fontbakery-report.html)
-[![][Shaping]](https://mitradranirban.github.io/ayuta.git/fontbakery/fontbakery-report.html)
+[![][Fontbakery]](https://mitradranirban.github.io/ayuta/fontbakery/fontbakery-report.html)
+[![][Universal]](https://mitradranirban.github.io/ayuta/fontbakery/fontbakery-report.html)
+[![][GF Profile]](https://mitradranirban.github.io/ayuta/fontbakery/fontbakery-report.html)
+[![][Shaping]](https://mitradranirban.github.io/ayuta/fontbakery/fontbakery-report.html)
 
-[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmitradranirban%2Fsamaano-fonts%2Fgh-pages%2Fbadges%2Foverall.json
-[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmitradranirban%2Fsamaano-fonts%2Fgh-pages%2Fbadges%2FUniversalProfileChecks.json
+[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmitradranirban%2Fayuta%2Fgh-pages%2Fbadges%2Foverall.json
+[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmitradranirban%2Fayuta%2Fgh-pages%2Fbadges%2FUniversalProfileChecks.json
 [Font File]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmitradranirban%2Fsamaano-fonts%2Fgh-pages%2Fbadges%2FFontFileChecks.json
-[Repository]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmitradranirban%2Fsamaano-fonts%2Fgh-pages%2Fbadges%2FRepositoryChecks.json
-[OpenType]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmitradranirban%2Fsamaano-fonts%2Fgh-pages%2Fbadges%2FOpenTypeSpecificationChecks.json
+[Repository]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmitradranirban%2Fayuta%2Fgh-pages%2Fbadges%2FRepositoryChecks.json
+[OpenType]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmitradranirban%2Fayuta%2Fgh-pages%2Fbadges%2FOpenTypeSpecificationChecks.json
 
-Ayuta is named after ancient Indian Kingdom of Ayuta, which some say is present day Ayodhya, or more likely, Ay kindom ofof ancient Tamilakam, what is modern day Tamilnadu in India. In 1st Century C.E., Princess of Ayuta Semvalam a.k.a Suriratna,sailed to Korean Peninsula in a big boat, married King Suro of Geumgwan Gaya, and became Empress Boju (보주태후). She carried with her Pandyan language and culture, so many Tamil words are now part of Korean Vocabulary.
+Ayuta is named after ancient Indian Kingdom of Ayuta, which some say is present day Ayodhya, or more likely, Ay kindom of ancient Tamilakam, what is modern day Tamilnadu in India. As the legends go, in 1st Century C.E., Princess of Ayuta, Semvalam a.k.a Suriratna, sailed to Korean Peninsula in a big boat, married King Suro of Geumgwan Gaya, and became Empress Boju (보주태후). She carried with her Pandyan language and culture, so many Tamil words are now part of Korean Vocabulary.
 
 This font is created by an Indian font designer, to commomorate 2000 yrs of cultural relation between India and Korea initiated by Princess of Ayuta.
 
@@ -30,8 +30,7 @@ This font is created by Dr Anirban Mitra, an amateure Typographer and Free Softw
 Fonts are built automatically by GitHub Actions - take a look in the "Actions" tab for the latest build.
 
  
-
-The proof files and QA tests are also available automatically via GitHub Actions - look at https://mitradranirban.github.io/ayuta.git.
+The proof files and QA tests are also available automatically via GitHub Actions - look [here](https://mitradranirban.github.io/ayuta).
 
 ## Changelog
 
@@ -40,8 +39,7 @@ The font is presently in alpha phage
 ## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
-This license is available with a FAQ at
-https://scripts.sil.org/OFL
+This license is available with a FAQ [here](https://scripts.sil.org/OFL)
 
 ## Repository Layout
 

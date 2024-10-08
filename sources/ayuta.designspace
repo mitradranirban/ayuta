@@ -9,7 +9,7 @@
         <dimension name="weight" xvalue="100"/>
       </location>
     </source>
-    <source filename="ayuta-regular.ufo" name="636ff076" familyname="ayuta" stylename="ayuta-regular">
+    <source filename="ayuta-regular.ufo" name="56a15b68" familyname="ayuta" stylename="ayuta-regular">
       <location>
         <dimension name="weight" xvalue="400"/>
       </location>
@@ -20,26 +20,4 @@
       </location>
     </source>
   </sources>
-  <lib>
-    <dict>
-      <key>fontra.sourceStatusFieldDefinitions</key>
-      <array>
-        <dict>
-          <key>color</key>
-          <array>
-            <integer>1</integer>
-            <integer>0</integer>
-            <integer>0</integer>
-            <integer>1</integer>
-          </array>
-          <key>isDefault</key>
-          <true/>
-          <key>label</key>
-          <string>In progress</string>
-          <key>value</key>
-          <integer>0</integer>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </designspace>

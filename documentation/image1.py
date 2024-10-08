@@ -16,7 +16,7 @@ import argparse
 
 # Constants, these are the main "settings" for the image
 WIDTH, HEIGHT, MARGIN, FRAMES = 2048, 1024, 128, 1
-FONT_PATH = "fonts/variable/ayuta[weight].ttf"
+FONT_PATH = "fonts/variable/ayuta[wght].ttf"
 FONT_LICENSE = "OFL v1.1"
 AUXILIARY_FONT = "Helvetica"
 AUXILIARY_FONT_SIZE = 48
@@ -26,7 +26,7 @@ BIG_TEXT_FONT_SIZE = 730
 BIG_TEXT_SIDE_MARGIN = MARGIN * 1
 BIG_TEXT_BOTTOM_MARGIN = MARGIN * 2
 
-GRID_VIEW = False # Toggle this for a grid overlay
+GRID_VIEW = True # Toggle this for a grid overlay
 
 # Handel the "--output" flag
 # For example: $ python3 documentation/image1.py --output documentation/image1.png

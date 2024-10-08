@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="OE" format="2">
+  <advance width="1124"/>
+  <unicode hex="0152"/>
+  <outline>
+    <contour>
+      <point x="262" y="1498" type="line"/>
+      <point x="111" y="1498" type="line"/>
+      <point x="111" y="50" type="line"/>
+      <point x="262" y="50" type="line"/>
+    </contour>
+    <contour>
+      <point x="704" y="1498" type="line"/>
+      <point x="534.051" y="1498" type="line"/>
+      <point x="534.051" y="50" type="line"/>
+      <point x="704" y="50" type="line"/>
+    </contour>
+    <contour>
+      <point x="880" y="1498" type="line"/>
+      <point x="148" y="1498" type="line"/>
+      <point x="148" y="1349" type="line"/>
+      <point x="880" y="1349" type="line"/>
+    </contour>
+    <contour>
+      <point x="888" y="200" type="line"/>
+      <point x="150" y="200" type="line"/>
+      <point x="150" y="50" type="line"/>
+      <point x="888" y="50" type="line"/>
+    </contour>
+    <contour>
+      <point x="850" y="834" type="line"/>
+      <point x="656" y="834" type="line"/>
+      <point x="656" y="684" type="line"/>
+      <point x="850" y="684" type="line"/>
+    </contour>
+  </outline>
+</glyph>

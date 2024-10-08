@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oslash" format="2">
+  <advance width="1124"/>
+  <unicode hex="00F8"/>
+  <outline>
+    <contour>
+      <point x="978.08" y="1037.04" type="line"/>
+      <point x="858.062" y="1109.2" type="line"/>
+      <point x="9" y="23.8721" type="line"/>
+      <point x="128.122" y="-48.1895" type="line"/>
+    </contour>
+    <contour>
+      <point x="243.068" y="973" type="line"/>
+      <point x="93.0684" y="973" type="line"/>
+      <point x="93.0684" y="50" type="line"/>
+      <point x="243.068" y="50" type="line"/>
+    </contour>
+    <contour>
+      <point x="910.068" y="973" type="line"/>
+      <point x="758.068" y="973" type="line"/>
+      <point x="758.068" y="50" type="line"/>
+      <point x="910.068" y="50" type="line"/>
+    </contour>
+    <contour>
+      <point x="802.068" y="973" type="line"/>
+      <point x="216.068" y="973" type="line"/>
+      <point x="216.068" y="822" type="line"/>
+      <point x="802.068" y="822" type="line"/>
+    </contour>
+    <contour>
+      <point x="792.068" y="200" type="line"/>
+      <point x="220.068" y="200" type="line"/>
+      <point x="220.068" y="50" type="line"/>
+      <point x="792.068" y="50" type="line"/>
+    </contour>
+  </outline>
+</glyph>

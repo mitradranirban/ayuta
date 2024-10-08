@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcaron" format="2">
+  <advance width="1124"/>
+  <unicode hex="010F"/>
+  <outline>
+    <contour>
+      <point x="814" y="1477" type="line"/>
+      <point x="652.729" y="1477" type="line"/>
+      <point x="652.729" y="50" type="line"/>
+      <point x="814" y="50" type="line"/>
+    </contour>
+    <contour>
+      <point x="696.66" y="973" type="line"/>
+      <point x="149" y="973" type="line"/>
+      <point x="149" y="822" type="line"/>
+      <point x="696.66" y="822" type="line"/>
+    </contour>
+    <contour>
+      <point x="204" y="973" type="line"/>
+      <point x="53" y="973" type="line"/>
+      <point x="53" y="50" type="line"/>
+      <point x="204" y="50" type="line"/>
+    </contour>
+    <contour>
+      <point x="766" y="195" type="line"/>
+      <point x="149" y="195" type="line"/>
+      <point x="149" y="50" type="line"/>
+      <point x="766" y="50" type="line"/>
+    </contour>
+    <contour>
+      <point x="990" y="1446" type="line"/>
+      <point x="910" y="1446" type="line"/>
+      <point x="910" y="1264" type="line"/>
+      <point x="990" y="1264" type="line"/>
+    </contour>
+  </outline>
+</glyph>
